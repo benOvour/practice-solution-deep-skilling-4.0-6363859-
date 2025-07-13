@@ -1,0 +1,34 @@
+What is ORM?
+ORM (Object-Relational Mapping) is a technique that allows developers to interact with a database using high-level programming languages, such as C#, rather than SQL. ORM frameworks like EF Core automatically map classes to tables, allowing developers to manipulate the data in the form of objects.
+
+Benefits of ORM:
+
+Productivity: Avoid writing complex SQL queries.
+
+Maintainability: Code is easier to manage and refactor.
+
+Abstraction from SQL: Developers focus on application logic rather than SQL syntax.
+
+EF Core vs EF Framework
+EF Core:
+
+Cross-platform (Windows, macOS, Linux).
+
+Lightweight and modular.
+
+Supports modern features like LINQ, async queries, and compiled queries.
+
+EF Framework (EF6):
+
+Windows-only and more mature.
+
+Less flexible compared to EF Core.
+
+Has more features but lacks newer capabilities like cross-platform support.
+
+EF Core 8.0 Features
+JSON column mapping: Allows mapping JSON columns in SQL to C# objects.
+
+Improved performance: Optimizations through compiled models.
+
+Interceptors and better bulk operations: Enhanced performance and monitoring.

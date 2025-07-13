@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RIT_S\\Desktop\\cognizant\\week1\\Data_structure_Algorithm\\exercise2\\exercise2.csproj",
+      "projectUniqueName": "C:\\Users\\RIT_S\\Desktop\\cognizant\\week1\\Data_structure_Algorithm\\exercise1\\exercise2.csproj",
       "projectName": "exercise2",
-      "projectPath": "C:\\Users\\RIT_S\\Desktop\\cognizant\\week1\\Data_structure_Algorithm\\exercise2\\exercise2.csproj",
+      "projectPath": "C:\\Users\\RIT_S\\Desktop\\cognizant\\week1\\Data_structure_Algorithm\\exercise1\\exercise2.csproj",
       "packagesPath": "C:\\Users\\RIT_S\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RIT_S\\Desktop\\cognizant\\week1\\Data_structure_Algorithm\\exercise2\\obj\\",
+      "outputPath": "C:\\Users\\RIT_S\\Desktop\\cognizant\\week1\\Data_structure_Algorithm\\exercise1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RIT_S\\AppData\\Roaming\\NuGet\\NuGet.Config"
